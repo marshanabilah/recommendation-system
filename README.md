@@ -1,1 +1,1 @@
-# Recommender System using Steam Dataset
+# Recommender System using Amazon Beauty Products Dataset
